@@ -8,3 +8,5 @@ openai
 google-genai
 mcp
 apscheduler
+pytest
+pytest-mock
